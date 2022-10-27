@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: {{ date }}
-updated: 2022-10-26
+title: 欢迎来到我的博客
+date: 2022-10-26
+updated: {{ date }}
 tags: 测试
 categories: 测试
 ---

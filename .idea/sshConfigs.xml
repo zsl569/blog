@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="222.30.196.37" id="f53a7c38-df88-4597-b1db-de23e617bde9" port="22" customName="devops" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="devops" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
